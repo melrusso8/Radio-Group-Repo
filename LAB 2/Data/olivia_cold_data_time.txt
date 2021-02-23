@@ -1,0 +1,7 @@
+local_now = Mon Feb 22 2021 15:20:57 #ugradio.timing.local_time()
+ut_now =  1614036057.9803557 #ugradio.timing.unix_time()
+julian_now = 2459268.4728932925 #ugradio.timing.julian_date()
+lst_julian = 0.36758801221325654 #ugradio.timing.lst()
+
+print(local_now, ut_now, julian_now, lst_julian)
+# Mon Feb 22 15:20:57 2021, 1614036057.9803557, 2459268.4728932925, 0.36758801221325654
