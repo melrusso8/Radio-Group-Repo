@@ -1,7 +1,0 @@
-local = ugradio.timing.local_time = Tue Feb 23 14:15:01 2021
-ut_ = ugradio.timing.unix_time = 1614118501.1561606
-julian = ugradio.timing.julian_date = 2459269.427096716
-lstjulian = ugradio.timing.lst =  0.09625452367024782
-
-print(local,ut_,julian,lstjulian)
-#Tue Feb 23 14:15:01 2021, 1614118501.1561606, 2459269.427096716, 0.09625452367024782
